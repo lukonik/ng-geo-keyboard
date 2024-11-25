@@ -1,6 +1,6 @@
 {
-  "name": "repository-template",
-  "version": "0.0.0",
+  "name": "ng-geo-keyboard",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
